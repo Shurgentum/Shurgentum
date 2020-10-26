@@ -5,6 +5,7 @@
 I am a student of the Computer Engineering course, studying software programming for mobile platforms. In addition to education, I am developing my own mobile application. My interests include video filming, travel, extreme sports.
 
 ⚫️TECHNOLOGY STACK:
+
 Front-end:
 - Templates: HTML, Jinja, Pug
 Back-end / API: 
