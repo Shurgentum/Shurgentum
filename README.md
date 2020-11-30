@@ -1,17 +1,30 @@
 ## Hi there 👋
-#### My name is Kirill Asieiev. I am Developer and junior DevOps.
+#### My name is Kirill Asieiev. I am full-stack Developer and DevOps.
 
-⚫️ABOUT:
-I am a student of the Computer Engineering course, studying software programming for mobile platforms. In addition to education, I am developing my own mobile application. My interests include video filming, travel, extreme sports.
+⚫️ ABOUT:
 
-⚫️TECHNOLOGY STACK:
+I am a Computer Engineering student studying programming for mobile platforms.
+Apart from education, I work for my charity startup.
+
+You're welcome to check it out:
+
+[Paws Project Repository](https://github.com/Paws-project)
+
+⚫️ TECHNOLOGY STACK:
 
 Front-end:
 - Templates: HTML, Jinja, Pug
+- Flutter (cross-platform)
+
 Back-end / API: 
-- Python: Django, Web scraping(BS4)
+- Python: Django, Django REST Framework, Web scraping(BS4)
 - Node.js: Express.js, Puppeteer, Telegraf
 - Data store: MySQL, PostgreSQL, MongoDB, SQLite
+
+Authentication:
+- Session
+- JWT
+- OAuth2
 
 Mobile Development Technologies:
 - Android: Kotlin, SQLite, Android Room
@@ -19,5 +32,5 @@ Mobile Development Technologies:
 
 DevOps / Management:
 - Linux: nginX, Scheduling, proxy
-- Docker: Dockerfiles, Compose, Swarm 
-- Git: Flow(Branching, Merging, etc..) 
+- Docker: Dockerfiles, Compose, Swarm
+- Git: Flow, Branching, Merging, Rebasing, Filtering, etc..)
