@@ -1,11 +1,11 @@
 ## Hi 👋
 #### My name is Kirill Asieiev. I am a developer and DevOps
-***
-ABOUT:
+---
+### ABOUT:
  
 I am a Computer Engineering student at Mechnikov National University, studying programming, automation and system administration.
 ***
-TECHNOLOGY STACK:
+### TECHNOLOGY STACK:
 
 > #### OS / DevOps:
 > - Linux: bash scripts, nginx, crontab
@@ -23,7 +23,8 @@ TECHNOLOGY STACK:
 > - Node.js: Express.js, Telegraf
 > - Data store: MySQL, PostgreSQL, MongoDB
 
-CERTIFICATES
+***
+### CERTIFICATES:
 > ### Cloud Partitioner Essentials
 >
 >> Amazon Web Services (AWS)
