@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi 👋
+#### My name is Kirill Asieiev. I am a developer and DevOps
+***
+ABOUT:
+ 
+I am a Computer Engineering student at Mechnikov National University, studying programming, automation and system administration.
+***
+TECHNOLOGY STACK:
 
-<!--
-**Shurgentum/Shurgentum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OS / DevOps:
+- Linux: bash scripts, nginx, crontab
+- Docker: Image builds, Compose
+- Git: Flow, Hooks
+- Cloud: AWS Essentials
 
-Here are some ideas to get you started:
+Automation / Deployment:
+- CI/CD: Github Actions
+- Config control: Ansible
+- Orchestration: Swarm Stacks, ECS, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-end / API:
+- Python: Django, BS4
+- Node.js: Express.js, Telegraf
+- Data store: MySQL, PostgreSQL, MongoDB
