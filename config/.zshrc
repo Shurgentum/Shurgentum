@@ -2,7 +2,6 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-echo $HOME
 export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
@@ -91,14 +90,14 @@ KUBE_PS1_SYMBOL_ENABLE=false
 ZSH_THEME_AWS_PREFIX="%{$fg_bold[yellow]%}"
 ZSH_THEME_AWS_SUFFIX="%{$reset_color%}"
 
-ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}|%{$fg[red]%}"
-ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} ➜ "
+ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}|%{$fg_bold[red]%}"
+ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[blue]%} %{$fg[yellow]%}✗"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%}"
 
 
-PROMPT="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ )"
-PROMPT+=' %{$fg[cyan]%}%c%{$reset_color%}$(git_prompt_info)'
+STATUS_ARROW="%(?:%{$fg[green]%}➜ :%{$fg[red]%}➜ )"
+PROMPT="%{$fg_bold[cyan]%}%c%{$reset_color%}$(git_prompt_info) $STATUS_ARROW"
 
 RPROMPT='$(aws_prompt_info) $(kube_ps1)'
 
