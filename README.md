@@ -14,8 +14,8 @@ Currently, I am studying Computer Engineering at the Mechnikov National Universi
 #### OS / DevOps:
 - Linux: bash scripts, nginx, cron scheduling
 - Containers: OCI, Docker, Podman
-- Git: Flow, WebHooks
-- Cloud: Azure, AWS, Linode
+- Git: Flow, WebHooks integration,
+- Cloud: AWS, Azure, Linode
 
 #### Automation / Deployment:
 - IaaS: Terraform
@@ -23,7 +23,7 @@ Currently, I am studying Computer Engineering at the Mechnikov National Universi
 - CС: Ansible, Helm
 - Orchestration: Docker Swarm, Kubernetes
 
-#### Back-end / API:
+#### API / Development:
 - Python: Django, Telegram Bot
 - Node.js: Express
 - Data store: MySQL, PostgreSQL, MongoDB
