@@ -1,40 +1,43 @@
-## Greetings 👋
+# Greetings 👋
+## 📖 **About Me**
 
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+I am a DevOps engineer with experience in the fields of orchestration,
+automation and infrastructure design.
 
-𝙸 𝚊𝚖 𝚊 𝙳𝚎𝚟𝙾𝚙𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍𝚜 𝚘𝚏 𝚘𝚛𝚌𝚑𝚎𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗, 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗, 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚊𝚜 𝚠𝚎𝚕𝚕 𝚊𝚜 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚒𝚗𝚐 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚝𝚊𝚜𝚔𝚜.
+I spent two years learning programming, algorithms, and Linux
+system administration while studying at the Richelieu Lyceum.
 
-𝙸 𝚜𝚙𝚎𝚗𝚝 𝚝𝚠𝚘 𝚢𝚎𝚊𝚛𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜, 𝙻𝚒𝚗𝚞𝚡 𝚜𝚢𝚜𝚝𝚎𝚖 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝙳𝚎𝚟𝙾𝚙𝚜 𝚖𝚎𝚝𝚑𝚘𝚍𝚘𝚕𝚘𝚐𝚢.
+Currently, I am studying Computer Engineering at the Mechnikov
+National University. I study programming, automation and system
+administration.
 
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸 𝚊𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝙼𝚎𝚌𝚑𝚗𝚒𝚔𝚘𝚟 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢. 𝙸 𝚜𝚝𝚞𝚍𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐, 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗.
-
-
+---
 <img align="right" src="./readme/code.gif?raw=true" width="500" />
 
-## 👨🏼‍💻𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚜𝚝𝚊𝚌𝚔:
+## 👨🏼‍💻**Technology stack**:
+### **Cloud Infrastructure (AWS)**:
+- Networking: VPC, Subnets (Public, Private), Internet and NAT gateways, Peering
+- Security: Groups, Network ACLS, IAM (Users, Roles, Policies), Secrets Manager
+- Containers: ECS, EKS, ECR
+- Serverless: Fargate, Lambda
+- Storage: EBS, S3
+- Monitoring: CloudWatch, CloudTrail
+- Scaling: (Application/Network)Load Balancers, Target Groups
 
-### 𝙾𝚂 / 𝙳𝚎𝚟𝙾𝚙𝚜:
-- 𝙲𝚘𝚗𝚝𝚊𝚒𝚗𝚎𝚛𝚜: 𝙾𝙲𝙸, 𝙳𝚘𝚌𝚔𝚎𝚛
-- 𝙶𝚒𝚝: 𝙵𝚕𝚘𝚠, 𝚆𝚎𝚋𝙷𝚘𝚘𝚔𝚜 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗𝚜
-- 𝙲𝚕𝚘𝚞𝚍: 𝙰𝚆𝚂, 𝙻𝚒𝚗𝚘𝚍𝚎
-- 𝙳𝙱: 𝙼𝚢𝚂𝚀𝙻, 𝙿𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻, 𝙼𝚘𝚗𝚐𝚘𝙳𝙱
+### **Automation**:
+- Infrastructure: Terraform, Ansible, Helm
+- CI/CD: Github Actions, Jenkins
 
-### 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 / 𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝:
-- 𝙷𝚊𝚜𝚑𝚒𝚌𝚘𝚛𝚙: 𝚃𝚎𝚛𝚛𝚊𝚏𝚘𝚛𝚖, 𝚅𝚊𝚞𝚕𝚝
-- 𝙲𝙸/𝙲𝙳: 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚘𝚗𝚜, 𝙹𝚎𝚗𝚔𝚒𝚗𝚜, 𝙹𝙲𝚊𝚜𝙲
-- 𝙲С: 𝙰𝚗𝚜𝚒𝚋𝚕𝚎
-- 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜: 𝙷𝚎𝚕𝚖, 𝙴𝙺𝚂 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗𝚜
+### **Programming**:
+- Python: Django, Telegram bots, Scripting with various libraries (used primarily for Lambda)
+- Node.js: Promise API, Express, Packaging
 
-### 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝:
-- 𝙱𝚊𝚜𝚑
-- 𝙶𝚛𝚘𝚘𝚟𝚢: 𝙹𝚎𝚗𝚔𝚒𝚗𝚜 𝙿𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜
-- 𝙿𝚢𝚝𝚑𝚘𝚗:
-    - 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜: 𝙳𝚓𝚊𝚗𝚐𝚘, 𝚂𝚎𝚕𝚎𝚗𝚒𝚞𝚖
-- 𝙽𝚘𝚍𝚎.𝚓𝚜:
-    - 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜: 𝙴𝚡𝚙𝚛𝚎𝚜𝚜, 𝙿𝚞𝚙𝚙𝚎𝚝𝚎𝚎𝚛
+### **Other skills**:
+- Linux: Bash, nginx, cron
+- Testing: k6 load testing
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+## 📫 How to reach me:
+You can reach me at the email in my profile. Follow my socials!
 
 [<img src="./readme/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Shurgentum)
 [<img src="./readme/instagram.svg" height="40em" align="center" alt="Follow me on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/shurgentum)
