@@ -40,7 +40,6 @@ administration.
 You can reach me at the email in my profile. Follow my socials!
 
 [<img src="./files/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Shurgentum)
-[<img src="./files/instagram.svg" height="40em" align="center" alt="Follow me on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/shurgentum)
 
 <!-- 
 - 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
