@@ -1,40 +1,36 @@
 # Greetings 👋
-## 📖 **About Me**
+### 📖 **About Me**
 
-I am a DevOps engineer with experience in the fields of orchestration,
-automation and infrastructure design.
+I am a DevOps Engineer specializing in cloud infrastructure, automation, and scalable system design. Passionate about building efficient, secure, and resilient systems using cutting-edge technologies.
 
-I spent two years learning programming, algorithms, and Linux
-system administration while studying at the Richelieu Lyceum.
 
-Currently, I am studying Computer Engineering at the Mechnikov
-National University. I study programming, automation and system
-administration.
-
----
 <img align="right" src="./files/code.gif?raw=true" width="500" />
 
-## 👨🏼‍💻**Technology stack**:
-### **Cloud Infrastructure (AWS)**:
-- Networking: VPC, Subnets (Public, Private), Internet and NAT gateways, Peering
-- Security: Groups, Network ACLS, IAM (Users, Roles, Policies), Secrets Manager
-- Containers: ECS, EKS, ECR
-- Serverless: Fargate, Lambda
-- Storage: EBS, S3
-- Monitoring: CloudWatch, CloudTrail
-- Scaling: (Application/Network)Load Balancers, Target Groups
+### 👨🏼‍💻**Technology stack**:
 
-### **Automation**:
-- Infrastructure: Terraform, Ansible, Helm
-- CI/CD: Github Actions, Jenkins
 
-### **Programming**:
-- Python: Django, Telegram bots, Scripting with various libraries (used primarily for Lambda)
-- Node.js: Promise API, Express, Packaging
+- **OS: Linux(Debian, Ubuntu, RHEL, Amazon), MacOS**
 
-### **Other skills**:
-- Linux: Bash, nginx, cron
-- Testing: k6 load testing
+- **Cloud platforms: AWS, DigitalOcean,  Linode**
+
+- **AWS services: IAM, S3, EC2 (+EBS, EFS), VPC (+Internet,NAT, Application gateways), ECS, EKS (+Fargate), ECR, Shield, DynamoDB, RDS, Lambda, ElastiCache, CodeArtifact, CloudFront, Route 53, Audit Manager, Secrets Manager, WAF, Backup**
+
+- **Databases: MySQL, PostgreSQL, MongoDB**
+
+- **CI/CD: Jenkins, GitHub Actions, GitLab CI, AgroCD**
+
+- **HashiCorp: Terraform (certified), Vault, Consul**
+
+- **Configuration: Ansible, Helm, Helmfile**
+
+- **Orchestration and containers: Docker, Docker Compose, Podman, Kubernetes, Portainer**
+
+- **Monitoring: Zabbix, Prometheus, Grafana**
+
+- **Web engines/proxy: Nginx, Apache, Tomcat, Traefik**
+
+- **Programming: Go, Python(+Django), Node.js(+Express.js, Telegram Bots), Bash**
+
 
 ## 📫 How to reach me:
 You can reach me at the email in my profile. Follow my socials!
